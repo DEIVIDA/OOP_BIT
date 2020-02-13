@@ -1,0 +1,10 @@
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.exe
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.deps.json
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.runtimeconfig.json
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.runtimeconfig.dev.json
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.dll
+C:\cs\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp3.1\ConsoleApp53.pdb
+C:\cs\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp3.1\ConsoleApp53.AssemblyInfoInputs.cache
+C:\cs\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp3.1\ConsoleApp53.AssemblyInfo.cs
+C:\cs\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp3.1\ConsoleApp53.dll
+C:\cs\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp3.1\ConsoleApp53.pdb

@@ -1,0 +1,11 @@
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.exe
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.deps.json
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.runtimeconfig.json
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.runtimeconfig.dev.json
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.dll
+C:\cs\ConsoleApp51\ConsoleApp51\bin\Debug\netcoreapp3.1\ConsoleAppPapildoma.pdb
+C:\cs\ConsoleApp51\ConsoleApp51\obj\Debug\netcoreapp3.1\ConsoleAppPapildoma.csprojAssemblyReference.cache
+C:\cs\ConsoleApp51\ConsoleApp51\obj\Debug\netcoreapp3.1\ConsoleAppPapildoma.AssemblyInfoInputs.cache
+C:\cs\ConsoleApp51\ConsoleApp51\obj\Debug\netcoreapp3.1\ConsoleAppPapildoma.AssemblyInfo.cs
+C:\cs\ConsoleApp51\ConsoleApp51\obj\Debug\netcoreapp3.1\ConsoleAppPapildoma.dll
+C:\cs\ConsoleApp51\ConsoleApp51\obj\Debug\netcoreapp3.1\ConsoleAppPapildoma.pdb

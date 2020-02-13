@@ -1,0 +1,11 @@
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\bin\Debug\WindowsFormsApp10_gyvunai.exe.config
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\bin\Debug\WindowsFormsApp10_gyvunai.exe
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\bin\Debug\WindowsFormsApp10_gyvunai.pdb
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.csprojAssemblyReference.cache
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.Form1.resources
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.Form2.resources
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.Form3.resources
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.Properties.Resources.resources
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.csproj.GenerateResource.cache
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.exe
+C:\cs\WindowsFormsApp10_gyvunai\WindowsFormsApp10_gyvunai\obj\Debug\WindowsFormsApp10_gyvunai.pdb
